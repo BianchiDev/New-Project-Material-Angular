@@ -1,0 +1,4 @@
+ng new Cadastro --no-standalone  ############## Cria o projeto no angular 17 com módulos
+
+ng g m  <nome do modulo>    ########## Cria um modulo ################
+ng g m <nome do modulo > --routing  ############### Cria o módulo de roteamento ###########
